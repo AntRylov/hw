@@ -21,4 +21,10 @@
 
 11.git checkout develop
 
-12.git merge develop
+12.git merge develop2
+
+13.git merge develop3
+
+14
+
+15
